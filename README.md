@@ -82,9 +82,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNasri&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JNasri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img align="center" width="49%"  src="https://raw.githubusercontent.com/JNasri/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img align="center" width="49%"  src="https://raw.githubusercontent.com/JNasri/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+</div>  
 
 <br/>  
 
