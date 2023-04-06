@@ -4,10 +4,10 @@
 
 ### <div align="center">💠 I'm Youssef, a full-stack Web-Developer, interested in all aspect of technologies💻 💠</div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on a Graduation Project [Private Repo]
   
 
-- 🌱 I'm currenty learning advanced [REACT](https://github.com/JNasri/REACT.js) 
+- 🌱 I'm currently learning advanced [REACT](https://github.com/JNasri/REACT.js) 
   
 
 - 🎯 Planning on mastering all technologies related to web development   
@@ -82,12 +82,11 @@
 
 
 ## Github Stats  
-<div align="center">
-<img align="center" width="49%"  src="https://raw.githubusercontent.com/JNasri/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img align="center" width="49%"  src="https://raw.githubusercontent.com/JNasri/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNasri&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JNasri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
 
 
 ### Spotify 🎵  
