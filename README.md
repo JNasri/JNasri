@@ -4,13 +4,13 @@
 
 ### <div align="center">💠 I'm Youssef, a full-stack Web-Developer, interested in all aspect of technologies💻 💠</div>
 
-- 🔭 I’m currently working on a Graduation Project [Private Repo]
+- 🔭 I’m currently finishing my Graduation Project [Private Repo]
   
 
-- 🌱 I'm currently learning advanced [REACT](https://github.com/JNasri/REACT.js) 
+- 🌱 I'm currently learning [REDUX](https://github.com/JNasri/REDUX) 
   
 
-- 🎯 Planning on mastering all technologies related to web development   
+- 🎯 Planning on mastering all technologies related to web development AND mobile app development 
   
 
 - ⚡ Copy-and-Paste enjoyer 😊
