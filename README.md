@@ -1,9 +1,9 @@
-![Header](./github-header-image.png)
+![Header](./Github_Header.png)
 
-- 🔭 I’m currently doing my summer training course at [Wadi Makkah](https://wadimakkah.sa/%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%a7%d8%af%d9%8a-%d9%85%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9/)
+- 🔭 Currently doing my summer training course at [Wadi Makkah](https://wadimakkah.sa/%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%a7%d8%af%d9%8a-%d9%85%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9/)
   
 
-- 🌱 I'm currently learning [REDUX](https://github.com/JNasri/REDUX) 
+- 🌱 Currently learning [REDUX](https://github.com/JNasri/REDUX) 
   
 
 - 🎯 Planning on being an expert in Web & Mobile application development 💥
