@@ -77,7 +77,14 @@
  
   
 
-<br/>  
+<br/>
+
+
+## Github Stats 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNasri&hide_border=true&layout=compact" align="center" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JNasri&show_icons=true&count_private=true&hide_border=true" align="center"/>
+</div>  
 
 
 
