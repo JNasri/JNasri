@@ -1,6 +1,6 @@
 ![Header](./Github_Header.png)
 
-- 🔭 Currently doing my summer training internship at [Wadi Makkah](https://wadimakkah.sa/%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%a7%d8%af%d9%8a-%d9%85%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9/)
+- 🔭 Currently finishing the last steps to graduate from [UQU](https://uqu.edu.sa/)
   
 
 - 🌱 Currently learning [REDUX](https://github.com/JNasri/REDUX) 
