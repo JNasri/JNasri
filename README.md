@@ -1,6 +1,6 @@
 ![Header](./Github_Header.png)
 
-- 🔭 2023 Computer Scinece Graduate From [UQU](https://uqu.edu.sa/)
+- 🔭 2023 Computer Science Graduate From [UQU](https://uqu.edu.sa/)
   
 
 - 🌱 Currently learning [REDUX](https://github.com/JNasri/REDUX) 
