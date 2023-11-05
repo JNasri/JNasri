@@ -1,4 +1,4 @@
-![Header](./New_Github_Header)
+![Header](./New_Github_Header.png)
 
 - 🔭 2023 Computer Science Graduate From [UQU](https://uqu.edu.sa/)
   
