@@ -3,7 +3,7 @@
 - 🔭 Computer Science Graduate From [UQU](https://uqu.edu.sa/)
   
 
-- 🌱 Currently learning [AWS & DevOps]([https://github.com/JNasri/REDUX](https://aws.amazon.com/education/awseducate/)) 
+- 🌱 Currently learning [AWS & DevOps](https://aws.amazon.com/education/awseducate/)
   
 
 - 🎯 Planning on being an expert in Web & Mobile application development 💥
