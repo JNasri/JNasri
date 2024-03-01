@@ -1,9 +1,9 @@
 ![Header](./New_Github_Header.png)
 
-- 🔭 2023 Computer Science Graduate From [UQU](https://uqu.edu.sa/)
+- 🔭 Computer Science Graduate From [UQU](https://uqu.edu.sa/)
   
 
-- 🌱 Currently learning [REDUX](https://github.com/JNasri/REDUX) 
+- 🌱 Currently learning [AWS & DevOps]([https://github.com/JNasri/REDUX](https://aws.amazon.com/education/awseducate/)) 
   
 
 - 🎯 Planning on being an expert in Web & Mobile application development 💥
