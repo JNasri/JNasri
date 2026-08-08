@@ -2,7 +2,7 @@
 <img align='right' src="https://storage-jn.cranl.net/gh-pfp.png" width="230">
 <p>
 <em>
-Software Engineer at <a href="https://kutbi-sjiak3.cranl.net">ALKUTBI GROUP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Product Software Engineer at <a href="https://kutbi-sjiak3.cranl.net">ALKUTBI GROUP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>
 Certified <a href="https://aws.amazon.com">AWS</a> Cloud Architect
 </br>
