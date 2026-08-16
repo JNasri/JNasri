@@ -4,7 +4,7 @@
 <em>
 Product Software Engineer at <a href="https://kutbi-sjiak3.cranl.net">ALKUTBI GROUP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>
-Certified <a href="https://aws.amazon.com">AWS</a> Cloud Architect
+Certified <a href="https://storage-jn.cranl.net/aws-saa.pdf">AWS Cloud Architect</a>
 </br>
 Learning SRE, DevOps and Platform Engineering!
 </em>
