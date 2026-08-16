@@ -19,7 +19,8 @@ Learning SRE, DevOps and Platform Engineering!
 ```javascript
 const Josef = {
   pronouns: "he" | "his",
-  code: [Python, Typescript, Javascript, Go, Java and many more!],
+  codingLanguages: [Python, Typescript, Javascript, Go, Java and many more!],
+  actualLanguages: [Arabic (native), English (C2), German (B1), Turkish (A2)]
   tools: [React, Docker, K8, Helm, Jest, Prometheus],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
