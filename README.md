@@ -18,17 +18,17 @@ Learning SRE, DevOps and Platform Engineering!
 
 ```javascript
 const Josef = {
-  pronouns: "he" | "his",
+  age: "26",
   codingLanguages: [Python, Typescript, Javascript, Go, Java and many more!],
   actualLanguages: [Arabic (native), English (C2), German (B1), Turkish (A2)],
-  tools: [React, Docker, K8, Helm, Jest, Prometheus],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  cloudTools: [AWs, Docker, K8s, Helm, Argo, Prometheus],
+  developmentPatters: ["cloud-native", "event-driven", "micro-services"],
   techCommunities: {
                         contributor: "OpenSource",
                         learning: "The Linux Foundation",
                         connecting with: "Everyone!"
                       },
- challenge: "Currently learning SRE, DevOps and Platform engineering"
+ challenge: "Currently learning SRE, DevOps and Platform engineering!"
 }
 ```
 
