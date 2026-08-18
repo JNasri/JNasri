@@ -21,7 +21,7 @@ const Josef = {
   age: "26",
   codingLanguages: [Python, Typescript, Javascript, Go, Java and many more!],
   actualLanguages: [Arabic (native), English (C2), German (B1), Turkish (A2)],
-  cloudTools: [AWs, Docker, K8s, Helm, Argo, Prometheus],
+  cloudTools: [AWS, Docker, K8s, Helm, Argo, Prometheus],
   developmentPatters: ["cloud-native", "event-driven", "micro-services"],
   techCommunities: {
                         contributor: "OpenSource",
